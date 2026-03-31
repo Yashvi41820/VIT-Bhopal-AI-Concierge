@@ -1,0 +1,7 @@
+{
+  "name": "V-Guide: VIT Bhopal AI Concierge",
+  "description": "The official AI Concierge for VIT Bhopal University, providing seamless assistance for academics, admissions, and campus life with real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
